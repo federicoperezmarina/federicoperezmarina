@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicoperezmarina&show_icons=true)
+
 <h2>GitHub Analytics</h2>
 <p align="center">
   <a href="https://github.com/federicoperezmarina">
