@@ -9,7 +9,7 @@
     <img width="49%" src="https://github-readme-twitter.gazf.vercel.app/api?id=federicoperezma&amp;layout=wide" alt="github-readme-twitter">
   </a>
   
-[Federico Perez Marina stats](https://github-readme-stats.vercel.app/api/wakatime?username=federicoperez)
+[Federico Perez Marina stats](https://github-readme-stats.vercel.app/api/wakatime?username=federicoperezmarina)
 
 <!--
 **federicoperezmarina/federicoperezmarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
