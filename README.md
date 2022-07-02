@@ -5,9 +5,10 @@
     <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=federicoperezmarina&layout=compact&langs_count=100&theme=whitegray"/>
     <img width="49%" heigth="auto" src="https://activity-graph.herokuapp.com/graph?username=federicoperezmarina&bg_color=ffffff" />
   </a>
+  <a href="https://twitter.com/federicoperezma">
+    <img width="49%" src="https://github-readme-twitter.gazf.vercel.app/api?id=federicoperezma&amp;layout=wide" alt="github-readme-twitter">
+  </a>
 </p>
-
-<p><a href="https://twitter.com/federicoperezma"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=federicoperezma&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 <!--
 **federicoperezmarina/federicoperezmarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
