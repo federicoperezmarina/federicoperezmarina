@@ -9,8 +9,7 @@
     <img width="49%" src="https://github-readme-twitter.gazf.vercel.app/api?id=federicoperezma&amp;layout=wide" alt="github-readme-twitter">
   </a>
   
-![Federico Perez Marina stats](https://github-readme-stats-taupe-two.vercel.app/api/federicoperezmarina?username=federicoperezmarina&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-</p>
+[![Federico Perez Marina stats](https://github-readme-stats.vercel.app/api/wakatime?username=federicoperez)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **federicoperezmarina/federicoperezmarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
