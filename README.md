@@ -7,6 +7,7 @@
   </a>
 </p>
 
+<p><a href="https://twitter.com/federicoperezma"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=federicoperezma&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 <!--
 **federicoperezmarina/federicoperezmarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
