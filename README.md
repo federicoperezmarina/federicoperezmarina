@@ -7,8 +7,8 @@
   </a>
   <a href="https://twitter.com/federicoperezma">
     <img width="49%" src="https://github-readme-twitter.gazf.vercel.app/api?id=federicoperezma&amp;layout=wide" alt="github-readme-twitter">
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=federicoperezmarina&margin-w=15&margin-h=15">
-  </a>
+    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=federicoperezmarina&column=3&margin-w=15&margin-h=15">
+  </a
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
