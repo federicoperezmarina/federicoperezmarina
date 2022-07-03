@@ -7,6 +7,7 @@
         <img width="49%" src="https://github-readme-twitter.gazf.vercel.app/api?id=federicoperezma&amp;layout=wide" alt="github-readme-twitter">
     </a>
     <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=federicoperezmarina&bg_color=ffffff" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=federicoperezmarina">
 </p>  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
