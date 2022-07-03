@@ -11,10 +11,6 @@
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=federicoperezmarina"
 </p>  
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/federicoperezmarina/federicoperezmarina/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/federicoperezmarina/federicoperezmarina/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/federicoperezmarina/federicoperezmarina/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
   
