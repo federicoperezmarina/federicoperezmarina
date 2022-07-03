@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/federicoperezmarina">
-    <img src="https://github-profile-trophy.vercel.app/?username=federicoperezmarina&margin-w=15&margin-h=15">
+    <img width="99%" src="https://github-profile-trophy.vercel.app/?username=federicoperezmarina&margin-w=15&margin-h=15">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=federicoperezmarina&show_icons=true&theme=whitegray&include_all_commits=true&count_private=true"/>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=federicoperezmarina&theme=whitegray&date_format=M%20j%5B%2C%20Y%5D" />
     <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=federicoperezmarina&layout=compact&langs_count=100&theme=whitegray"/>
