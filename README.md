@@ -8,11 +8,11 @@
     </a>
     <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=federicoperezmarina&bg_color=ffffff" />
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=federicoperezmarina">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=federicoperezmarina"
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=federicoperezmarina">
 </p>  
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka--> 
+<!--END_SECTION:waka-->
 
 <!--
 **federicoperezmarina/federicoperezmarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
