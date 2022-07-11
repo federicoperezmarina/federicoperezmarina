@@ -12,6 +12,13 @@
 </p>  
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   55 mins         ████████████▒░░░░░░░░░░░░   49.09 %
+Python     47 mins         ██████████▓░░░░░░░░░░░░░░   42.10 %
+Docker     10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
