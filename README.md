@@ -14,9 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   55 mins         ████████████▒░░░░░░░░░░░░   49.09 %
-Python     47 mins         ██████████▓░░░░░░░░░░░░░░   42.10 %
-Docker     10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+From: 10 June 2022 - To: 10 July 2022
+
+Total Time: 1 hr 57 mins
+
+Markdown                   ████████████▓░░░░░░░░░░░░   50.39 %
+Python                     ██████████▒░░░░░░░░░░░░░░   41.02 %
+Docker                     ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
 ```
 
 <!--END_SECTION:waka-->
