@@ -11,20 +11,6 @@
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=federicoperezmarina">
 </p>  
 
-<!--START_SECTION:waka-->
-
-```text
-From: 10 June 2022 - To: 10 July 2022
-
-Total Time: 1 hr 57 mins
-
-Markdown                   ████████████▓░░░░░░░░░░░░   50.39 %
-Python                     ██████████▒░░░░░░░░░░░░░░   41.02 %
-Docker                     ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-```
-
-<!--END_SECTION:waka-->
-
 <!--
 **federicoperezmarina/federicoperezmarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
